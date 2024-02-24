@@ -5,3 +5,4 @@ Day 1 : print /  input / variables
 Day 2 :Concat / colours
 Day 3 : if / elif /else / and 
 Day 4 : nesting / and/or 
+Day 5 :casting     int / float / <  >  <=  >=
