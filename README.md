@@ -15,3 +15,4 @@ Day 5 :casting     int / float / <  >  <=  >=
 Day 6 : calculating : subtraction,adding,division,multiplication,modulo,divisor,rounding ( -,+,/,*,%,**)
 ---------------------------------
 Day 7 : Calculate seconds in year / debug small code
+---------------------------------
