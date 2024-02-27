@@ -16,3 +16,5 @@ Day 6 : calculating : subtraction,adding,division,multiplication,modulo,divisor,
 ---------------------------------
 Day 7 : Calculate seconds in year / debug small code
 ---------------------------------
+Day 8 : Convert Grade to Grade% and give Mark/ Rock - Paper - Scissors
+---------------------------------
