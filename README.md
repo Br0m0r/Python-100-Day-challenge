@@ -18,3 +18,5 @@ Day 7 : Calculate seconds in year / debug small code
 ---------------------------------
 Day 8 : Convert Grade to Grade% and give Mark/ Rock - Paper - Scissors
 ---------------------------------
+Day 9 : While / While True / break
+---------------------------------
