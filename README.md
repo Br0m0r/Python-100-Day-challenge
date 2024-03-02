@@ -1,6 +1,6 @@
 # Python 100 Day challenge
 ---------------------------------
-Doing alongside : https://www.youtube.com/watch?v=1sKuY9eqbhg&list=PLto9KpJAqHMQNY3XP0JqLs7NyeU_dnNj0&index=1
+Doing alongside(on my pace) : https://www.youtube.com/watch?v=1sKuY9eqbhg&list=PLto9KpJAqHMQNY3XP0JqLs7NyeU_dnNj0&index=1
 ---------------------------------
 Day 1 : print /  input / variables
 ---------------------------------
@@ -14,13 +14,15 @@ Day 5 :casting     int / float / <  >  <=  >=
 ---------------------------------
 Day 6 : calculating : subtraction,adding,division,multiplication,modulo,divisor,rounding ( -,+,/,*,%,**)
 ---------------------------------
-Day 7 : Calculate seconds in year / debug small code
+Day 7 : Calculate seconds in year / debug small code/Exercise
 ---------------------------------
 Day 8 : Convert Grade to Grade% and give Mark/ Rock - Paper - Scissors
 ---------------------------------
 Day 9 : While / While True / break
 ---------------------------------
-Day 10 :Rock Paper Scissors Improved
+Day 10 :Rock Paper Scissors Improved/Exercise
 ---------------------------------
 Day 11: for loop/range
+---------------------------------
+Day 12: more for loop stuff/Exercise
 ---------------------------------
