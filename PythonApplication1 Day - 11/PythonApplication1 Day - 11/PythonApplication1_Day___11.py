@@ -25,7 +25,7 @@ for number in range(100): #dont forget parenthesis
     
 for days in range(7):
     print("Day",days)
-   ''' 
+   '''
 
 interest = 0.05
 balance = 1000
