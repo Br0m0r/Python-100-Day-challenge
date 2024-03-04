@@ -26,3 +26,5 @@ Day 11: for loop/range
 ---------------------------------
 Day 12: more for loop stuff/Exercise
 ---------------------------------
+Day 13: libraries / Exercise
+---------------------------------
