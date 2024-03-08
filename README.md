@@ -32,3 +32,7 @@ Day 14: SubRoutines / Parameters / Exercise
 ---------------------------------
 Day 15: Return command / Exercise
 ---------------------------------
+Day 16: More Libraries/Exercise
+---------------------------------
+Day 17: Character Creation(Exercise)
+---------------------------------
