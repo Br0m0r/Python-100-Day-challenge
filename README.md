@@ -36,3 +36,5 @@ Day 16: More Libraries/Exercise
 ---------------------------------
 Day 17: Character Creation(Exercise)
 ---------------------------------
+Day 18: Character Battle(Exercise add-on to Day 17)
+---------------------------------
