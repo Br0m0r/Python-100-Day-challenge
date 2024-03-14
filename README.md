@@ -40,3 +40,5 @@ Day 18: Character Battle(Exercise add-on to Day 17)
 ---------------------------------
 Day 19: Various Print stuff,Exercise
 ---------------------------------
+Day 20:text alignment(f'' string stuff /Exercise)
+---------------------------------
