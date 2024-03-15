@@ -42,3 +42,4 @@ Day 19: Various Print stuff,Exercise
 ---------------------------------
 Day 20:text alignment(f'' string stuff /Exercise)
 ---------------------------------
+Day 21: Lists/Exercises
