@@ -44,3 +44,5 @@ Day 20:text alignment(f'' string stuff /Exercise)
 ---------------------------------
 Day 21: Lists/Exercises
 ---------------------------------
+Day 22: More Lists/Exericise
+---------------------------------
