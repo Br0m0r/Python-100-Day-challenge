@@ -48,3 +48,5 @@ Day 22: More Lists/Exericise
 ---------------------------------
 Day 23: Even more Lists/Exercise
 ---------------------------------
+Day 24:List Big Exercise
+---------------------------------
