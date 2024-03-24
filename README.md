@@ -50,3 +50,5 @@ Day 23: Even more Lists/Exercise
 ---------------------------------
 Day 24:List Big Exercise
 ---------------------------------
+Day 25:String manipulation
+---------------------------------
