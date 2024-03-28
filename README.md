@@ -52,3 +52,5 @@ Day 24:List Big Exercise
 ---------------------------------
 Day 25:String manipulation
 ---------------------------------
+Day 26: Hangman (Exercise)
+---------------------------------
